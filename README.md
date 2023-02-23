@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Yasmim👋
 
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: ela/dela
+- Pronouns: ela/dela
 
 <div style="display: inline_block">
   <a href="https://github.com/0302cmd">
