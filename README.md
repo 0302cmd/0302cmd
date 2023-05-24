@@ -1,4 +1,4 @@
-### Olá! Eu sou a Yasmim!
+### Olá! Eu sou a Yasmim.
 
 - Estudando tecnologias Front-End.
 
